@@ -18,12 +18,11 @@ const About: NextPage = () => {
                     I am shehan chanuka <span> </span>
                   </h2>
                   <p>
-                    Hi! My name is Your Name. I am a your expertise, and I am
-                    very passionate and dedicated to my work. With 1 years
-                    experience as a your expertise, I have acquired the skills and
-                    knowledge necessary to make your project a success. I enjoy
-                    every step of the design process, from discussion and
-                    collaboration.
+                  Hi! My name is Shehan Chanuka. I am a UI/UX designer, and I am very passionate and dedicated to my work. With 1 year of experience in UI/UX design, 
+                  I have acquired the skills and knowledge necessary to make your project a success. 
+                  I enjoy every step of the design process, from discussion and collaboration to wireframing, prototyping, and user testing.
+                  I thrive on creating intuitive and delightful user experiences that not only meet but xceed user expectations.
+                   Let's collaborate to bring your vision to life!.
                   </p>
                 </div>
               </div>
@@ -37,17 +36,17 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Email : <span>your@email.com</span>
+                        Email : <span>shehan@email.com</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Degree : <span>SSC</span>
+                        Degree : <span>BSc.Information Technology </span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        Phone : <span>+99 ********</span>
+                        Phone : <span>+94 879674320</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -83,28 +82,28 @@ const About: NextPage = () => {
                 <div className="skills padd-15">
                   <div className="row">
                     <div className="skill-item padd-15">
-                      <h5>Html5</h5>
+                      <h5>Figma</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "80%" }} />
                         <div className="skill-percent">80%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Css3</h5>
+                      <h5>Photoshop</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "60%" }} />
                         <div className="skill-percent">60%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Javascript</h5>
+                      <h5>Indesign</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "50%" }} />
                         <div className="skill-percent">50%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Bootstrap</h5>
+                      <h5>Illustrater</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "70%" }} />
                         <div className="skill-percent">70%</div>
